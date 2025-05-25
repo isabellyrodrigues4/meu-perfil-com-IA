@@ -45,12 +45,10 @@ IA: Resiliência detectada, tom positivo no final.
 
  📸 Prints do Projeto
 
-*Adicione aqui prints de tela com as análises, comandos ou insights relevantes.*
+![guthub](https://github.com/user-attachments/assets/7bb2da0d-9369-44bf-8585-47913d4928ef)
 
-Exemplo:
-![Print da Análise](prints/exemplo-analise.png)
 
----
+
 
 💡 Insights que Tive
 
