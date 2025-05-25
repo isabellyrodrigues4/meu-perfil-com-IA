@@ -27,19 +27,12 @@ Durante o desafio, utilizei IA para analisar sentenças, identificar padrões e 
 
 🔍 Exemplos de Análise de Sentenças
 
- ✅ Sentenças positivas:
 > "Estou animado para aprender novas tecnologias."
 > IA: Sentimento positivo, linguagem proativa.
 
 > "Contribuir em projetos é uma forma de crescer profissionalmente."  
 IA: Sentimento construtivo e colaborativo.
 
-⚠️ Sentenças neutras/negativas:
-> "Tenho dificuldades com organização."  
-IA: Tom neutro com possibilidade de desenvolvimento.
-
-> "Já pensei em desistir, mas continuei tentando."  
-IA: Resiliência detectada, tom positivo no final.
 
 ---
 
